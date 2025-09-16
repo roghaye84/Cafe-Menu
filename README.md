@@ -1,2 +1,2 @@
-# Front-End-Projects
-A curated collection of front-end projects highlighting expertise in HTML, CSS, JavaScript, and modern frameworks. Built to demonstrate responsive design, clean code, and industry best practices.
+# Cafe-Menu
+A responsive and visually appealing cafe menu built with HTML and CSS, demonstrating clean code, layout design, and interactive elements suitable for front-end portfolio
